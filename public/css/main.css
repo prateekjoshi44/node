@@ -10,10 +10,6 @@ body {
   font-family: 'Open Sans', sans-serif;
 }
 
-.centered{
-  text-align: center;
-}
-
 main {
   padding: 1rem;
   margin: auto;
@@ -21,6 +17,10 @@ main {
 
 form {
   display: inline;
+}
+
+.centered {
+  text-align: center;
 }
 
 .main-header {
@@ -194,6 +194,17 @@ form {
 .btn:hover,
 .btn:active {
   background-color: #00695c;
+  color: white;
+}
+
+.btn.danger {
+  color: red;
+  border-color: red;
+}
+
+.btn.danger:hover,
+.btn.danger:active {
+  background: red;
   color: white;
 }
 
