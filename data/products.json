@@ -1,1 +1,16 @@
-[{"id":"123245","title":"A Book","imageUrl":"https://www.publicdomainpictures.net/pictures/10000/velka/1-1210009435EGmE.jpg","description":"This is an awesome book!","price":"19"},{"id":"0.41607315815753076","title":"fasfd","imageUrl":"fdasfs","description":"fadsfads","price":"12"}]
+[
+  {
+    "id": "123",
+    "title": "A Book",
+    "imageUrl": "199",
+    "description": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg/1200px-Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg",
+    "price": "a book has been updated"
+  },
+  {
+    "id": "0.8285832239778668",
+    "title": "Beard Trimmer",
+    "imageUrl": "9999",
+    "description": "https://beardo.in/cdn/shop/files/1_e057a87f-416c-4878-8a88-8d61d166c2a6.jpg?v=1685077821&width=990",
+    "price": "3 in 1 complete grooming solution\r\nCarbon steel t-blades for cleaner cuts\r\nErgonomically designed for better grip\r\nRun time 120 mins with convenient USB charging"
+  }
+]
